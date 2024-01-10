@@ -32,6 +32,6 @@
   
   
 
-<img width="550px" alt="Abdullah Al Noman Github Stats"  src="https://github-readme-stats.vercel.app/api?username=mohammad-al-amin-islam&show_icons=true"/>
+
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-al-amin-islam&card_width=550)](https://github.com/mohammad-al-amin-islam/mohammad-al-amin-islam)
