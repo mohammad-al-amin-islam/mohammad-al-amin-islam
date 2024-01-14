@@ -4,7 +4,7 @@
 
 - 🌱If new technology available just started to adapt with new technology
 
-- 📫 How to reach me **moalamin001@gmail.com**
+- 📫 Reach me with email **moalamin001@gmail.com**
 
 ### Connect with me:
 
