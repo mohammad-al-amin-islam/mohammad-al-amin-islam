@@ -12,7 +12,7 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/MohammadAlAmin1998)  
 
 ### Languages and Tools:
-![](https://img.shields.io/badge/React-11303B?style=flat&logo=react&labelColor=344A53)
+![](https://img.shields.io/badge/React-11303B?style=flat&logo=react)
 ![](https://img.shields.io/badge/Redux-11303B?style=flat&logo=Redux&logoColor=764ABC&labelColor=344A53)
 ![](https://img.shields.io/badge/React%20Query-11303B?style=flat&logo=React%20Query&logoColor=FF4154&labelColor=344A53)
 ![](https://img.shields.io/badge/JavaScript-11303B?style=flat&logo=JavaScript&labelColor=344A53)
