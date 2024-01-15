@@ -34,4 +34,4 @@
 
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-al-amin-islam&card_width=550)](https://github.com/mohammad-al-amin-islam/mohammad-al-amin-islam)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mohammad-al-amin-islam&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mohammad-al-amin-islam&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
