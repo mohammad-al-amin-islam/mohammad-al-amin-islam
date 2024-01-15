@@ -1,6 +1,6 @@
 <h1>Hi there, My self Md. Al Amin Islam</h1>
 <h3>I am Junior Software Engineer. I am working with Javascript, Next.js, PostgreSQL,Haura,N8N</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-al-amin-islam&label=Profile%20views&style=flat" alt="mohammad-al-amin-islam" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-al-amin-islam&label=Profile%20views&style=flat" alt="mohammad-al-amin-islam" /> </p> -->
 
 ### Connect with me:
 
