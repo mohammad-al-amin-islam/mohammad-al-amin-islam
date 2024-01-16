@@ -7,7 +7,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohammad-al-amin-islam) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/MohammadAlAmin1998)
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/md_al_amin_im) 
-[![Email message](https://img.shields.io/badge/%20-Email-black?color=14171A&labelColor=black&logo=gmail&logoColor=red)](moalamin001@gmail.com) 
+[![Email message](https://img.shields.io/badge/%20-moalamin001@gmail.com-black?color=14171A&labelColor=black&logo=gmail&logoColor=red)](mailto:moalamin001@gmail.com) 
 
 ### Languages and Tools:
 ![](https://img.shields.io/badge/React-11303B?style=flat&logo=react)
