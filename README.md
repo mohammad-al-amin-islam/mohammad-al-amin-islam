@@ -2,14 +2,13 @@
 <h3>I am Junior Software Engineer. I am working with Javascript, Next.js, PostgreSQL,Haura,N8N</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-al-amin-islam&label=Profile%20views&style=flat" alt="mohammad-al-amin-islam" /> </p> -->
 
-### Connect with me:
+##  ![contactIcon][contacticon-shield] Contact with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohammad-al-amin-islam) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/MohammadAlAmin1998)
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/md_al_amin_im) 
-[![mail][mail-shield]][mail-url]
-[mail-shield]: https://img.shields.io/badge/%F0%9F%93%A7%20Email-support%40learnwithsumit.com-lightgray
-[mail-url]: mailto:moalamin001@gmail.com
+[![Email message](https://img.shields.io/badge/%20-Email-black?color=14171A&labelColor=black&logo=gmail&logoColor=red)](moalamin001@gmail.com) 
+
 ### Languages and Tools:
 ![](https://img.shields.io/badge/React-11303B?style=flat&logo=react)
 ![](https://img.shields.io/badge/Redux-11303B?style=flat&logo=Redux)
@@ -27,7 +26,8 @@
 ![](https://img.shields.io/badge/NPM-11303B?style=flat&logo=npm)
 ![](https://img.shields.io/badge/Postman-11303B?style=flat&logo=Postman)
 ![](https://img.shields.io/badge/VS%20Code-11303B?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC)
-  
+
+[contacticon-shield]: https://img.icons8.com/external-flaticons-lineal-color-flat-icons/28/undefined/external-support-communication-media-flaticons-lineal-color-flat-icons.png
   
 
 
