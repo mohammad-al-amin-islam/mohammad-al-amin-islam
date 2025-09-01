@@ -6,7 +6,7 @@
 
 ## 📌 About Me  
 
-- 👨‍💻 2+ year of experience as a **Full Stack Web Developer**  
+- 👨‍💻 2+ year of experience as a **Full Stack Developer**  
 - ⚡ Strong focus on **frontend excellence** with backend knowledge  
 - 🌍 Open to **remote opportunities** worldwide
 - 🏗️ Working with **Next.js 15, TypeScript, Shadcn/ui, N8N, Hasura**
