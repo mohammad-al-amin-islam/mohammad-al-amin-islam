@@ -1,35 +1,51 @@
-<h1>Hi there, My self Md. Al Amin Islam</h1>
-<h3>I am Full Stack Web Developer. I am working with Javascript, Next.js, PostgreSQL,Hasura,N8N</h3>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-al-amin-islam&label=Profile%20views&style=flat" alt="mohammad-al-amin-islam" /> </p> -->
+# 👋 Hi, I'm Md. Al Amin Islam  
 
-##  ![contactIcon][contacticon-shield] Contact with me:
+💻 **Full Stack Developer** | 🌍 Building web apps & automation workflows | ✨ Passionate about modern frontend  
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohammad-al-amin-islam) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/MohammadAlAmin1998)
-[![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/md_al_amin_im) 
-[![Email message](https://img.shields.io/badge/%20-moalamin001@gmail.com-black?color=14171A&labelColor=black&logo=gmail&logoColor=red)](mailto:moalamin001@gmail.com) 
+---
 
-### Languages and Tools:
-![](https://img.shields.io/badge/React-11303B?style=flat&logo=react)
-![](https://img.shields.io/badge/Redux-11303B?style=flat&logo=Redux)
-![](https://img.shields.io/badge/React%20Query-11303B?style=flat&logo=React%20Query)
-![](https://img.shields.io/badge/JavaScript-11303B?style=flat&logo=JavaScript)
-![](https://img.shields.io/badge/TypeScript-11303B?style=flat&logo=TypeScript)
-![](https://img.shields.io/badge/MongoDB-11303B?style=flat&logo=MongoDB&logoColor=47A248)
-![](https://img.shields.io/badge/MySQL-11303B?style=flat&logo=MySQL)
-![](https://img.shields.io/badge/GraphQL-11303B?style=flat&logo=GraphQL&logoColor=E10098)
-![](https://img.shields.io/badge/Hasura-11303B?style=flat&logo=Hasura&logoColor=1EB4D4)
-![](https://img.shields.io/badge/CSS-11303B?style=flat&logo=css3&logoColor=1572B6)
-![](https://img.shields.io/badge/Tailwind-11303B?style=flat&logo=Tailwind-CSS)
-![](https://img.shields.io/badge/Ant%20Design-11303B?style=flat&logo=Ant%20Design&logoColor=0170FE)
-![](https://img.shields.io/badge/GitHub-11303B?style=flat&logo=GitHub&logoColor=181717)
-![](https://img.shields.io/badge/NPM-11303B?style=flat&logo=npm)
-![](https://img.shields.io/badge/Postman-11303B?style=flat&logo=Postman)
-![](https://img.shields.io/badge/VS%20Code-11303B?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC)
+## 📌 About Me  
 
-[contacticon-shield]: https://img.icons8.com/external-flaticons-lineal-color-flat-icons/28/undefined/external-support-communication-media-flaticons-lineal-color-flat-icons.png
-  
+- 👨‍💻 2+ year of experience as a **Full Stack Web Developer**  
+- ⚡ Strong focus on **frontend excellence** with backend knowledge  
+- 🌍 Open to **remote opportunities** worldwide
+- 🏗️ Working with **Next.js 15, TypeScript, Shadcn/ui, N8N, Hasura**
+- 📚 Currently learning: **React Flow** 
+
+---
+
+## 🛠️ Tech Stack  
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge)
+
+### Backend / Automation
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
+![Hasura](https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Others Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=swagger&logoColor=white)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-al-amin-islam) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohammad-al-amin-islam-portfolio.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moalamin001@gmail.com)
 
 
+## 📊 GitHub Stats   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-al-amin-islam&layout=compact&theme=radical)
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-al-amin-islam&card_width=550)](https://github.com/mohammad-al-amin-islam/mohammad-al-amin-islam)
+---
+
+⭐️ From [Md. Al Amin Islam](https://github.com/mohammad-al-amin-islam)
